@@ -16,7 +16,7 @@ typedef unsigned int uint32_t;
 #define pin8 5
 
 void set_input_pin(uint32_t pinout){
-
+    
 }
 void set_output_pin(uint32_t pinout){
     
